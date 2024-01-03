@@ -19,6 +19,8 @@ img = qrcode.make(data)
 img.save('MyQRCode1.png')
 ```
 
+
+
 * Full code
 ```
   # Importing library
